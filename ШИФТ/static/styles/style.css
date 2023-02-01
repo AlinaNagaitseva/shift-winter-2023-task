@@ -1,0 +1,38 @@
+.navbar {
+    background: #fff url(https://uprostim.com/wp-content/uploads/2021/04/image074-31-scaled.jpg) center center/cover no-repeat; 
+}
+main {
+    background: #fff url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613166905_181-p-zheltii-fon-dlya-fotoshopa-visokogo-kaches-206.jpg) center center/cover no-repeat;
+}
+.card {
+    height: 35rem;
+}
+.price.mx-4 {
+    font-size: 1.5rem;
+    align-items: right;
+}
+.icon {
+    width: 10rem;
+}
+.btn-outline-primary {
+    width: 20rem;
+    color: blueviolet;
+    border-color: blueviolet;
+}
+.btn-outline-primary:hover {
+    border-color: blueviolet;
+    background-color: blueviolet;
+}
+.navbar-brand {
+    color: goldenrod;
+}
+.item-control {
+    display: inline;
+}
+.icon-cart {
+    height: 2.5rem;
+    color: goldenrod;
+}
+.cart-item {
+    font-size: 0.8rem;
+}
